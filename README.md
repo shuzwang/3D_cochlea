@@ -15,4 +15,6 @@ Here we include analytical pipeline code for our manuscript.
 
 Besides the existing packages we used, we also generated some novel functions for our manuscript. 
 * 2D/3D reconstruction:  
+* Gradually expressed gene identification:
+* 
 
