@@ -26,6 +26,8 @@ Besides the existing algorithms we applied, we also conducted novel analysis for
 
 * Oto-score calculation: 
 
+* 1D spatial reconstruction of P2 data: 
+
 
 
 
